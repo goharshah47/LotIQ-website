@@ -56,10 +56,7 @@ export default function App() {
       {/* Header */}
       <header className="h-20 border-b border-slate-100 px-6 flex items-center justify-between sticky top-0 bg-white/80 backdrop-blur-md z-50">
         <div className="flex items-center gap-2">
-          <div className="w-10 h-10 bg-blue-600 rounded-lg flex items-center justify-center">
-            <Building2 className="text-white w-6 h-6" />
-          </div>
-          <span className="text-2xl font-bold tracking-tight text-slate-800">LotIQ</span>
+          {/* Logo removed */}
         </div>
 
         {state.step < 5 && (
