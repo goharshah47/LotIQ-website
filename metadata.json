@@ -1,0 +1,12 @@
+{
+  "name": "LotIQ Signup Redesign",
+  "description": "High-converting desktop signup flow for an AI property management SaaS.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Interactive Property Mapping",
+    "Secure Billing Integration",
+    "Installation Scheduling"
+  ]
+}
