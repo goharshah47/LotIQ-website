@@ -56,15 +56,6 @@ export default function SuccessStep({ state }: Props) {
           Visit Homepage
         </button>
       </div>
-
-      <div className="mt-16 text-center">
-         <p className="text-xs font-bold text-slate-400 uppercase tracking-widest mb-4">You're in good company</p>
-         <div className="flex gap-8 grayscale opacity-40 items-center justify-center">
-            <div className="font-black text-xl italic">REGENCY</div>
-            <div className="font-black text-xl italic">STRATTON</div>
-            <div className="font-black text-xl italic">VANGUARD</div>
-         </div>
-      </div>
     </div>
   );
 }
